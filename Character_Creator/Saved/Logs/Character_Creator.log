@@ -1425,3 +1425,161 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 
 [2024.11.05-22.12.39:065][  1]Running Python start-up script 'D:/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.262690 secs
 [2024.11.05-22.12.39:232][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2024.11.05-22.27.02:762][584]LogAutomationController: Ignoring very large delta of 2.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.05-22.27.02:787][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.05-22.27.03:203][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.05-22.27.38:016][ 31]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.05-22.27.38:023][ 31]LogViewport: Scene viewport resized to 1526x443, mode Windowed.
+[2024.11.05-22.27.41:058][222]LogViewport: Scene viewport resized to 1526x489, mode Windowed.
+[2024.11.05-22.27.42:673][413]LogViewport: Scene viewport resized to 1526x491, mode Windowed.
+[2024.11.05-22.27.42:685][414]LogViewport: Scene viewport resized to 1526x494, mode Windowed.
+[2024.11.05-22.27.42:714][415]LogViewport: Scene viewport resized to 1526x502, mode Windowed.
+[2024.11.05-22.27.42:736][416]LogViewport: Scene viewport resized to 1526x514, mode Windowed.
+[2024.11.05-22.27.42:761][417]LogViewport: Scene viewport resized to 1526x526, mode Windowed.
+[2024.11.05-22.27.42:781][418]LogViewport: Scene viewport resized to 1526x533, mode Windowed.
+[2024.11.05-22.27.42:803][419]LogViewport: Scene viewport resized to 1526x541, mode Windowed.
+[2024.11.05-22.27.42:825][420]LogViewport: Scene viewport resized to 1526x549, mode Windowed.
+[2024.11.05-22.27.42:846][421]LogViewport: Scene viewport resized to 1526x554, mode Windowed.
+[2024.11.05-22.27.42:867][422]LogViewport: Scene viewport resized to 1526x562, mode Windowed.
+[2024.11.05-22.27.42:889][423]LogViewport: Scene viewport resized to 1526x572, mode Windowed.
+[2024.11.05-22.27.42:910][424]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2024.11.05-22.27.42:930][425]LogViewport: Scene viewport resized to 1526x598, mode Windowed.
+[2024.11.05-22.27.42:968][426]LogViewport: Scene viewport resized to 1526x620, mode Windowed.
+[2024.11.05-22.27.42:987][427]LogViewport: Scene viewport resized to 1526x627, mode Windowed.
+[2024.11.05-22.27.43:025][428]LogViewport: Scene viewport resized to 1526x633, mode Windowed.
+[2024.11.05-22.27.43:264][454]LogViewport: Scene viewport resized to 1526x631, mode Windowed.
+[2024.11.05-22.27.43:278][455]LogViewport: Scene viewport resized to 1526x629, mode Windowed.
+[2024.11.05-22.27.43:326][456]LogViewport: Scene viewport resized to 1526x615, mode Windowed.
+[2024.11.05-22.27.43:352][457]LogViewport: Scene viewport resized to 1526x606, mode Windowed.
+[2024.11.05-22.27.43:374][458]LogViewport: Scene viewport resized to 1526x599, mode Windowed.
+[2024.11.05-22.27.43:394][459]LogViewport: Scene viewport resized to 1526x592, mode Windowed.
+[2024.11.05-22.27.43:415][460]LogViewport: Scene viewport resized to 1526x590, mode Windowed.
+[2024.11.05-22.27.43:437][461]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2024.11.05-22.27.43:456][462]LogViewport: Scene viewport resized to 1526x581, mode Windowed.
+[2024.11.05-22.27.43:477][463]LogViewport: Scene viewport resized to 1526x577, mode Windowed.
+[2024.11.05-22.27.43:505][465]LogViewport: Scene viewport resized to 1526x575, mode Windowed.
+[2024.11.05-22.27.43:861][507]LogViewport: Scene viewport resized to 1526x576, mode Windowed.
+[2024.11.05-22.27.44:687][602]LogViewport: Scene viewport resized to 1526x574, mode Windowed.
+[2024.11.05-22.27.44:703][603]LogViewport: Scene viewport resized to 1526x569, mode Windowed.
+[2024.11.05-22.27.44:755][604]LogViewport: Scene viewport resized to 1526x560, mode Windowed.
+[2024.11.05-22.27.44:775][605]LogViewport: Scene viewport resized to 1526x551, mode Windowed.
+[2024.11.05-22.27.44:796][606]LogViewport: Scene viewport resized to 1526x536, mode Windowed.
+[2024.11.05-22.27.44:818][607]LogViewport: Scene viewport resized to 1526x525, mode Windowed.
+[2024.11.05-22.27.44:841][608]LogViewport: Scene viewport resized to 1526x519, mode Windowed.
+[2024.11.05-22.27.44:860][609]LogViewport: Scene viewport resized to 1526x514, mode Windowed.
+[2024.11.05-22.27.44:882][610]LogViewport: Scene viewport resized to 1526x510, mode Windowed.
+[2024.11.05-22.27.44:903][611]LogViewport: Scene viewport resized to 1526x505, mode Windowed.
+[2024.11.05-22.27.44:929][612]LogViewport: Scene viewport resized to 1526x498, mode Windowed.
+[2024.11.05-22.27.44:950][613]LogViewport: Scene viewport resized to 1526x492, mode Windowed.
+[2024.11.05-22.27.44:971][614]LogViewport: Scene viewport resized to 1526x486, mode Windowed.
+[2024.11.05-22.27.44:993][615]LogViewport: Scene viewport resized to 1526x480, mode Windowed.
+[2024.11.05-22.27.45:013][616]LogViewport: Scene viewport resized to 1526x478, mode Windowed.
+[2024.11.05-22.27.45:084][623]LogViewport: Scene viewport resized to 1526x477, mode Windowed.
+[2024.11.05-22.27.45:110][625]LogViewport: Scene viewport resized to 1526x475, mode Windowed.
+[2024.11.05-22.27.45:131][626]LogViewport: Scene viewport resized to 1526x474, mode Windowed.
+[2024.11.05-22.27.51:458][998]LogSlate: Window 'New Level' being destroyed
+[2024.11.05-22.27.51:917][998]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.05-22.27.51:942][998]LightingResults: New page: Lighting Build
+[2024.11.05-22.27.51:942][998]LoadErrors: New page: Loading map: OpenWorld.umap
+[2024.11.05-22.27.52:359][998]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.05-22.27.52:388][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.05-22.27.52:632][998]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.05-22.27.52:647][998]MapCheck: New page: Map Check
+[2024.11.05-22.27.52:647][998]LightingResults: New page: Lighting Build
+[2024.11.05-22.27.52:689][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.05-22.27.52:955][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.11.05-22.27.53:051][998]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.11.05-22.27.53:051][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.05-22.27.53:051][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.05-22.27.53:052][998]LogAIModule: Creating AISystem for world Untitled_1
+[2024.11.05-22.27.53:070][998]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.11.05-22.27.53:070][998]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.05-22.27.53:070][998]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.05-22.27.55:770][998]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.11.05-22.27.55:770][998]LogWorldPartition: Display: WorldPartition initialize took 2.70 sec (total: 3.54 sec)
+[2024.11.05-22.27.56:798][998]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.05-22.27.56:810][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.05-22.27.56:817][998]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.05-22.27.56:817][998]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.547ms to complete.
+[2024.11.05-22.27.57:947][999]LogAutomationController: Ignoring very large delta of 8.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.05-22.28.02:868][384]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.05-22.28.02:931][384]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.05-22.28.02:998][385]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.05-22.28.08:162][953]LogContentBrowser: Attempting asset rename: NewFolder -> Character_Creator
+[2024.11.05-22.28.08:162][953]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.05-22.28.15:785][724]Cmd: POLY SELECT ADJACENT WALLS
+[2024.11.05-22.28.33:415][250]LogSlate: Window 'New Level' being destroyed
+[2024.11.05-22.28.33:427][250]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.05-22.28.33:534][250]LightingResults: New page: Lighting Build
+[2024.11.05-22.28.33:534][250]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.11.05-22.28.33:620][250]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.05-22.28.33:620][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.05-22.28.33:622][250]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.05-22.28.33:623][250]MapCheck: New page: Map Check
+[2024.11.05-22.28.33:623][250]LightingResults: New page: Lighting Build
+[2024.11.05-22.28.33:655][250]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.05-22.28.33:839][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.05-22.28.33:928][250]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.11.05-22.28.33:928][250]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.05-22.28.33:928][250]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.05-22.28.33:929][250]LogAIModule: Creating AISystem for world Untitled_2
+[2024.11.05-22.28.34:178][250]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.05-22.28.34:184][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.05-22.28.34:184][250]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.05-22.28.34:185][250]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2024.11.05-22.28.34:227][251]LogAutomationController: Ignoring very large delta of 4.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.05-22.28.45:811][996]LogViewport: Scene viewport resized to 1526x477, mode Windowed.
+[2024.11.05-22.28.45:826][997]LogViewport: Scene viewport resized to 1526x481, mode Windowed.
+[2024.11.05-22.28.45:859][998]LogViewport: Scene viewport resized to 1526x490, mode Windowed.
+[2024.11.05-22.28.45:881][999]LogViewport: Scene viewport resized to 1526x496, mode Windowed.
+[2024.11.05-22.28.45:901][  0]LogViewport: Scene viewport resized to 1526x502, mode Windowed.
+[2024.11.05-22.28.45:921][  1]LogViewport: Scene viewport resized to 1526x505, mode Windowed.
+[2024.11.05-22.28.45:942][  2]LogViewport: Scene viewport resized to 1526x510, mode Windowed.
+[2024.11.05-22.28.45:964][  3]LogViewport: Scene viewport resized to 1526x517, mode Windowed.
+[2024.11.05-22.28.45:984][  4]LogViewport: Scene viewport resized to 1526x520, mode Windowed.
+[2024.11.05-22.28.46:011][  5]LogViewport: Scene viewport resized to 1526x525, mode Windowed.
+[2024.11.05-22.28.46:033][  6]LogViewport: Scene viewport resized to 1526x536, mode Windowed.
+[2024.11.05-22.28.46:058][  7]LogViewport: Scene viewport resized to 1526x557, mode Windowed.
+[2024.11.05-22.28.46:900][  8]LogViewport: Scene viewport resized to 1526x663, mode Windowed.
+[2024.11.05-22.28.46:969][  9]LogViewport: Scene viewport resized to 1526x666, mode Windowed.
+[2024.11.05-22.29.12:459][929]LogViewport: Scene viewport resized to 1526x662, mode Windowed.
+[2024.11.05-22.29.12:474][930]LogViewport: Scene viewport resized to 1526x656, mode Windowed.
+[2024.11.05-22.29.12:505][931]LogViewport: Scene viewport resized to 1526x645, mode Windowed.
+[2024.11.05-22.29.12:527][932]LogViewport: Scene viewport resized to 1526x637, mode Windowed.
+[2024.11.05-22.29.12:549][933]LogViewport: Scene viewport resized to 1526x631, mode Windowed.
+[2024.11.05-22.29.12:570][934]LogViewport: Scene viewport resized to 1526x626, mode Windowed.
+[2024.11.05-22.29.12:592][935]LogViewport: Scene viewport resized to 1526x620, mode Windowed.
+[2024.11.05-22.29.12:614][936]LogViewport: Scene viewport resized to 1526x614, mode Windowed.
+[2024.11.05-22.29.12:638][937]LogViewport: Scene viewport resized to 1526x607, mode Windowed.
+[2024.11.05-22.29.12:661][938]LogViewport: Scene viewport resized to 1526x600, mode Windowed.
+[2024.11.05-22.29.12:684][939]LogViewport: Scene viewport resized to 1526x593, mode Windowed.
+[2024.11.05-22.29.12:709][940]LogViewport: Scene viewport resized to 1526x586, mode Windowed.
+[2024.11.05-22.29.12:731][941]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2024.11.05-22.29.12:752][942]LogViewport: Scene viewport resized to 1526x570, mode Windowed.
+[2024.11.05-22.29.12:772][943]LogViewport: Scene viewport resized to 1526x567, mode Windowed.
+[2024.11.05-22.29.12:796][944]LogViewport: Scene viewport resized to 1526x566, mode Windowed.
+[2024.11.05-22.29.39:116][354]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.05-22.29.39:601][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.11.05-22.29.39:631][354]LogSavePackage: Moving output files for package: /Game/Character_Creator/CharacterCreatorMap
+[2024.11.05-22.29.39:631][354]LogSavePackage: Moving '../../../../UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Saved/CharacterCreatorMap5519532444AD3EE1FAF3FEBE3B320C53.tmp' to '../../../../UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/Character_Creator/CharacterCreatorMap.umap'
+[2024.11.05-22.29.39:728][354]LogFileHelpers: Saving map 'CharacterCreatorMap' took 0.316
+[2024.11.05-22.29.39:728][354]Cmd: MAP LOAD FILE="../../../../UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/Character_Creator/CharacterCreatorMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.05-22.29.39:728][354]LightingResults: New page: Lighting Build
+[2024.11.05-22.29.39:728][354]LoadErrors: New page: Loading map: CharacterCreatorMap.umap
+[2024.11.05-22.29.39:747][354]LogWorld: UWorld::CleanupWorld for CharacterCreatorMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.05-22.29.39:747][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.05-22.29.39:747][354]MapCheck: New page: Map Check
+[2024.11.05-22.29.39:747][354]LightingResults: New page: Lighting Build
+[2024.11.05-22.29.39:750][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.05-22.29.39:751][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.05-22.29.39:755][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'CharacterCreatorMap'.
+[2024.11.05-22.29.39:755][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.05-22.29.39:755][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.05-22.29.39:755][354]LogAIModule: Creating AISystem for world CharacterCreatorMap
+[2024.11.05-22.29.39:852][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.05-22.29.39:856][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.05-22.29.39:858][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.05-22.29.39:859][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2024.11.05-22.29.39:859][354]AssetCheck: New page: Asset Save: CharacterCreatorMap
+[2024.11.05-22.29.39:859][354]LogContentValidation: Display: Validating /Script/Engine.World /Game/Character_Creator/CharacterCreatorMap.CharacterCreatorMap
+[2024.11.05-22.29.39:889][355]LogAutomationController: Ignoring very large delta of 23.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
