@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/Character_Creator/CharacterCreatorMap.umap"
+				"D:/UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/Character_Creator/CharacterCreatorMap.umap",
+				"D:/UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/Character_Creator/CharacterCreatorCamera.uasset",
+				"D:/UWE/Year 3/Creative Tech/Character-Creator-Dissertation/Character_Creator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/IA/5VLFBDTZV3KJ79ODMXP3FP.uasset"
 			]
 		}
 	]
